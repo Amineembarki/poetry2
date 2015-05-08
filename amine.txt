@@ -1,0 +1,2 @@
+	
+If you don't want to use TextWrangler (or any other code editor) as default editor for text files, you can also save a "shortcut" (actually, a shell alias) to make it easier to use TextWrangler on the terminal, typing for example something like tw myfile. Just add to your ~/.bash_profile something like alias tw='open 
